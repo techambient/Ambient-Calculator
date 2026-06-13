@@ -27,6 +27,12 @@ An open source dynamic and beautiful calculator for Android phone and tablet.
 
 Support Ambient Calculator development by subscribing, watching, liking and sharing my YT channel. Thank you very much for your help! ❤️
 
+<br>
+
+<a href="https://www.youtube.com/@techambient">
+  Click Here To View my YouTube Channel
+</a>
+
 ## 💬 Ambient FastMessenger
 
 Join my Ambient FastMessenger! 
