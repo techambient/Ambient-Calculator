@@ -24,8 +24,8 @@ An open source dynamic and beautiful calculator for Android phone and tablet.
 ## 📷 Screenshots
 
 <img src="tl.png" width="100%"/>
-<img src="tp.png" width="50%"/>
-<img src="pp.jpg" width="30%"/>
+<img src="tp.png" width="49%"/>
+<img src="pp.jpg" width="49%"/>
 <img src="pl.jpg" width="100%"/>
 
 ## ☕ Support
