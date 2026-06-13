@@ -1,5 +1,11 @@
+<div align="center">
+
+<img width="200" src="icon.png" alt="Ambient Calculator" align="center">
+
 # Ambient Calculator
 An open-sourced dynamic and beautiful calculator for Android phone and tablet. 
+
+<div align="left">
 
 ## 📖 Features
 
