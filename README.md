@@ -23,6 +23,9 @@ An open source dynamic and beautiful calculator for Android phone and tablet.
 
 ## 📷 Screenshots
 
+<img src="tl.png" width="100%"/>
+<img src="tp.png" width="50%"/>
+
 ## ☕ Support
 
 Support Ambient Calculator development by subscribing, watching, liking and sharing my YT channel. Thank you very much for your help! ❤️
