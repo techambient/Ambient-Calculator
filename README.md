@@ -30,7 +30,7 @@ An open source dynamic and beautiful calculator for Android phone and tablet.
 
 ## ☕ Support
 
-Support Ambient Calculator development by subscribing, watching, liking and sharing my YT channel. Thank you very much for your help! ❤️
+Please star this repo as basic support. Support more for Ambient Calculator development by subscribing, watching, liking and sharing my YT channel. Thank you very much for your help! ❤️
 
 <a href="https://www.youtube.com/@techambient">
   Click Here To View my YouTube Channel
