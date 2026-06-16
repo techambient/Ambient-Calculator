@@ -3,7 +3,7 @@
 <img width="200" src="icon.png" alt="Ambient Calculator" align="center">
 
 # Ambient Calculator
-An open source dynamic and beautiful calculator for Android phone, tablet and foldables. 
+Best open source modern, dynamic and beautiful calculator for Android tablet, phone and foldables. 
 
 <div align="left">
 
@@ -28,6 +28,12 @@ An open source dynamic and beautiful calculator for Android phone, tablet and fo
 <img src="pp.jpg" width="39%"/>
 <img src="pl.jpg" width="100%"/>
 <img src="foldables.png" width="100%"/>
+
+## 🆚 Ambient Calculator VS OpenCalc and yetCalc
+
+<a href="https://commoninja.site/644fb534-7d03-48e7-ba92-7c3d123b5958">
+  Click Here To See How Broken Is The UI
+</a>
 
 ## ☕ Support
 
@@ -55,5 +61,5 @@ This project is licensed under [MIT License](/LICENSE)
 
 ## ❔ Frequently Asked Questions
 
-1) Is Ambient Calculator beats OpenCalc or yetCalc in tablet UI?
+1) Is Ambient Calculator beats OpenCalc or yetCalc in tablet UI? <br>
    Answer: Yes, you can see the below screenshot to see the broken UI. 
