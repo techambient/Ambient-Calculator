@@ -3,7 +3,7 @@
 <img width="200" src="icon.png" alt="Ambient Calculator" align="center">
 
 # Ambient Calculator
-An open source dynamic and beautiful calculator for Android phone and tablet. 
+An open source dynamic and beautiful calculator for Android phone, tablet and foldables. 
 
 <div align="left">
 
@@ -27,6 +27,7 @@ An open source dynamic and beautiful calculator for Android phone and tablet.
 <img src="tp.png" width="60%"/>
 <img src="pp.jpg" width="39%"/>
 <img src="pl.jpg" width="100%"/>
+<img src="foldables.png" width="100%"/>
 
 ## ☕ Support
 
