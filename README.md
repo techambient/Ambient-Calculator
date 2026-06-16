@@ -55,4 +55,5 @@ This project is licensed under [MIT License](/LICENSE)
 
 ## ❔ Frequently Asked Questions
 
-No data available. 
+1) Is Ambient Calculator beats OpenCalc or yetCalc in tablet UI?
+   Answer: Yes, you can see the below screenshot to see the broken UI. 
