@@ -17,6 +17,8 @@ Best open source modern, dynamic and beautiful calculator for Android tablet, ph
 * Optimised for phone (single panel) and tablet (dual panel)
 * Quick settings tile
 * Fast Speed
+* Zero Ads & Zero Tracking
+* 100% Offline
 
 ## ⚠️ Requirements
 
