@@ -68,4 +68,4 @@ This project is licensed under [MIT License](/LICENSE)
    Answer: Yes, you can see the above section to see the broken UI.
 
 2) Is Ambient Calculator also known as "World Lightest Open Source Calculator"?
-   <br> Answer: Yes, it beats OpenCalc (~2.2MB) and Fossify Calculator (~3MB). 
+   <br> Answer: Yes, Ambient Calculator (~1.8MB) beats OpenCalc (~2.2MB) and Fossify Calculator (~3MB). 
