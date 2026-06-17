@@ -10,6 +10,7 @@ Best open source modern, dynamic and beautiful calculator for Android tablet, ph
 ## 📖 Features
 
 * None permissions required
+* Lightweight, only 1.8MB! 
 * Dark, Light, Material You and Google Material 3 theme
 * Scientific mode
 * History
