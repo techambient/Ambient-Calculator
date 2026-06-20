@@ -28,8 +28,8 @@ Best open source modern, dynamic and beautiful calculator for Android tablet, ph
 
 <img src="tl.png" width="100%"/>
 <img src="tp.png" width="60%"/>
-<img src="pp.jpg" width="39%"/>
-<img src="pl.jpg" width="100%"/>
+<img src="pp.png" width="39%"/>
+<img src="pl.png" width="100%"/>
 <img src="foldables.png" width="100%"/>
 
 ## 🆚 Ambient Calculator VS OpenCalc and yetCalc
