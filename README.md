@@ -46,9 +46,11 @@ Please star this repo as basic support. Support more for Ambient Calculator deve
   Click Here To View my YouTube Channel
 </a>
 
-## 💬 Ambient FastMessenger
+## 💬 Join My Discord Server
 
-Join my Ambient FastMessenger! 
+Join my discord server at <a href="https://discord.gg/ATnXUUnS">
+  Click Here To View my YouTube Channel
+</a>! 
 
 ## 🔨 Contributing
 
