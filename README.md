@@ -49,7 +49,7 @@ Please star this repo as basic support. Support more for Ambient Calculator deve
 ## 💬 Join My Discord Server
 
 Join my discord server at <a href="https://discord.gg/ATnXUUnS">
-  Click Here To View my YouTube Channel
+  Click Here To Join my Discord server
 </a>! 
 
 ## 🔨 Contributing
