@@ -45,6 +45,9 @@ Best open source AI-powered, modern, dynamic and beautiful calculator for Androi
   Click Here To See How Broken Is The UI
 </a>
 
+## 🎉 Special Thanks
+Special thanks to [mohamadsd078-eng](https://github.com/mohamadsd078-eng) for providing useful Business mode idea.
+
 ## ☕ Support
 
 Please star this repo as basic support. Support more for Ambient Calculator development by subscribing, watching, liking and sharing my YT channel. Thank you very much for your help! ❤️
