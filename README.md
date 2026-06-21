@@ -3,19 +3,22 @@
 <img width="200" src="icon.png" alt="Ambient Calculator" align="center">
 
 # Ambient Calculator
-Best open source modern, dynamic and beautiful calculator for Android tablet, phone and foldables. 
+Best open source AI-powered, modern, dynamic and beautiful calculator for Android tablet, phone and foldables. 
 
 <div align="left">
 
 ## 📖 Features
 
 * None permissions required
-* Lightweight, only 1.8MB! 
-* Dark, Light, Material You and Google Material 3 theme
+* Offline AI powered math to result OCR
+* Offline Handwriting-to-math (Preview)
+* Lightweight, only 1.8MB (Minimal Edition)! 
+* AMOLED, Dark, Light, Material You and Google Material 3 theme
 * Scientific mode
 * History
+* Business Mode
 * Optimised for phone (single panel) and tablet (dual panel)
-* Quick settings tile
+* Quick settings tile + small calculator widget
 * Fast Speed
 * Zero Ads & Zero Tracking
 * 100% Offline
