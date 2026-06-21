@@ -37,7 +37,7 @@ Best open source AI-powered, modern, dynamic and beautiful calculator for Androi
 
 ## 📸 Math-to-result OCR
 
-<img src="scanner.jpeg" width="100%"/>
+<img src="scanner.jpeg" width="30%"/>
 
 ## 🆚 Ambient Calculator VS OpenCalc and yetCalc
 
