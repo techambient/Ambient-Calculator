@@ -9,7 +9,7 @@ Best open source AI-powered, modern, dynamic and beautiful calculator for Androi
 
 ## 📖 Features
 
-* None permissions required
+* None permissions required for Minimal version, Camera required for OCR (Full version)
 * Offline AI powered math to result OCR
 * Offline Handwriting-to-math (Preview)
 * Lightweight, only 1.8MB (Minimal Edition)! 
@@ -79,5 +79,5 @@ This project is licensed under [MIT License](/LICENSE)
 1) Is Ambient Calculator beats OpenCalc or yetCalc in tablet UI? <br>
    Answer: Yes, you can see the above section to see the broken UI.
 
-2) Is Ambient Calculator also known as "World Lightest Open Source Calculator"?
+2) Is Ambient Calculator (Minimal Edition) also known as "World Lightest Open Source Calculator"?
    <br> Answer: Yes, Ambient Calculator (~1.8MB) beats OpenCalc (~2.2MB) and Fossify Calculator (~3MB). 
