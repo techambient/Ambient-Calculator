@@ -1,0 +1,23 @@
+Ambient Calculator
+--------------------
+Best open source AI-powered, modern, dynamic and beautiful calculator for Android tablet, phone and foldables.
+
+📖 Features
+-------------
+None permissions required for Minimal version, Camera required for OCR (Full version)
+Offline AI powered math to result OCR
+Offline Handwriting-to-math (Preview)
+Lightweight, only 1.8MB (Minimal Edition)!
+AMOLED, Dark, Light, Material You and Google Material 3 theme
+Scientific mode
+History
+Business Mode
+Optimised for phone (single panel) and tablet (dual panel)
+Quick settings tile + small calculator widget
+Fast Speed
+Zero Ads & Zero Tracking
+100% Offline
+
+⚠️ Requirements
+-----------------
+Android 10.0+
