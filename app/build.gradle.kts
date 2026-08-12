@@ -3,6 +3,12 @@ plugins {
     alias(libs.plugins.kotlin.compose)
 }
 
+// Exclude OpenCensus globally across all dependencies to clear F-Droid tracker warning
+configurations.all {
+    exclude(group = "io.opencensus", module = "opencensus-api")
+    exclude(group = "io.opencensus", module = "opencensus-proto")
+}
+
 android {
     namespace = "com.ambient.calculator2"
     compileSdk = 37
@@ -16,7 +22,6 @@ android {
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
-
 
     buildTypes {
         release {
