@@ -5,6 +5,10 @@
 # Ambient Calculator
 Best open source AI-powered, modern, dynamic and beautiful calculator for Android tablet, phone and foldables. 
 
+[![License](https://img.shields.io/github/license/techambient/Ambient-Calculator?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/Android-10%2B-34A853?style=for-the-badge)]()
+[![Material 3](https://img.shields.io/badge/Material%203-Expressive-4285F4?style=for-the-badge)]()
+
 <div align="left">
 
 ## 📖 Features
