@@ -27,6 +27,11 @@ Best open source AI-powered, modern, dynamic and beautiful calculator for Androi
 * Zero Ads & Zero Tracking
 * 100% Offline
 
+> [!WARNING]
+> **Ending this project** If no more users download my app and star my repo by November,
+> I am deciding to end this project. 
+
+
 ## ⚠️ Requirements
 
 * Android 10.0+
