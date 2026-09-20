@@ -60,11 +60,7 @@ Special thanks to [mohamadsd078-eng](https://github.com/mohamadsd078-eng) for pr
 
 ## ☕ Support
 
-If you like this project, kindly star this repo as basic support and give some donations to help keep it alive!
-
-* **Solana (SOL / USDC):** `EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf`
-* **Bitcoin (Taproot):** `bc1pguvpjudf9gr2lyjcf4s9ttvzushgu0hqhr2p7fwqzsz4977kajcqemvned`
-* **Bitcoin (Native Segwit):** `bc1qwfjwytw8lehg20es373cx2ulr3el99rt9uurz5`
+If you like this project, kindly star this repo as basic support to help keep it alive!
 
 ## 💬 Join My Discord Server
 
