@@ -1,3 +1,8 @@
+> [!WARNING]
+> If **no more users** download my app, use my app or star my repo by November 2026, I am **ending this project**.
+
+<br><br>
+
 <div align="center">
 
 <img width="200" src="icon.png" alt="Ambient Calculator" align="center">
@@ -26,11 +31,6 @@ Best open source AI-powered, modern, dynamic and beautiful calculator for Androi
 * Fast Speed
 * Zero Ads & Zero Tracking
 * 100% Offline
-
-> [!WARNING]
-> **Ending this project** If no more users download my app and star my repo by November,
-> I am deciding to end this project. 
-
 
 ## ⚠️ Requirements
 
