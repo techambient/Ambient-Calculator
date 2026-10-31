@@ -1,5 +1,6 @@
-> [!WARNING]
-> If **no more users** download my app, use my app or star my repo by November 2026, I am **ending this project**.
+> [!TIP]
+> ### 🎉 Ambient Calculator will continue to maintain!
+> Ambient-Calculator remains under active maintenance and development.
 
 <br><br>
 
